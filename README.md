@@ -1,23 +1,127 @@
-# 💫 About Me:
-### 👋 Hi, I'm Firas Abaidia<br><br>⚙️ **Method Engineer & CNC Programmer in Aerospace Manufacturing**<br>🤖 **AI Engineer | Data Scientist | Mechatronics Engineer**<br><br>I build bridges between **industrial engineering and artificial intelligence**.<br><br>With 8+ years working in real production environments — aerospace manufacturing, renewable energy, and industrial systems — I understand how complex physical processes actually work.<br>Today, I combine this engineering foundation with Artificial Intelligence to design smarter, data-driven systems.<br><br>My goal is simple:<br>➡️ transform traditional engineering problems into intelligent, automated solutions powered by AI.<br><br>---<br><br> 
-###🔭 Currently working on<br><br>* Applying AI concepts alongside industrial engineering workflows<br>* Computer Vision & Multimodal AI projects (PyTorch & Transformers)<br>* Production-ready Machine Learning pipelines<br>* Building an industry-focused AI portfolio on GitHub<br><br>---<br><br>
-### 👯 Looking to collaborate on<br><br>* Industrial AI applications<br>* Computer Vision for real-world environments<br>* AI agents & autonomous decision systems<br>* Robotics + AI integration projects<br>* Open-source AI engineering initiatives<br><br>---<br><br>
-### 🤝 Looking for help with<br><br>* Scaling AI systems to production environments<br>* MLOps & deployment architectures<br>* Designing robust AI systems for industry use cases<br>* Contributing to impactful open-source projects<br><br>---<br><br>
-### 🌱 Currently learning<br><br>* Multi-Agent AI Systems<br>* Large Language Models & Retrieval-Augmented Generation (RAG)<br>* Generative AI & Multimodal models<br>* AI system deployment (Docker, APIs, Cloud)<br>* Advanced optimization of deep learning models<br><br>---<br><br>### 💬 Ask me about<br><br>* Machine Learning & Deep Learning<br>* Computer Vision (CNNs, Vision Transformers)<br>* Data Science workflows & model evaluation<br>* AI applied to manufacturing and robotics<br>* Engineering problem solving with AI<br><br>---<br><br>
-### ⚡ Fun fact<br><br>I started my career programming CNC machines that shape aircraft parts — now I program models that learn from data.<br>Different tools, same mindset: **precision, optimization, and continuous improvement.**<br>
+# 💫 About Me
 
+## 👋 Hi, I'm Firas Abaidia
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firas-abaidia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:etudiant.abaidia.firas@uvt.tn) 
+⚙️ **Method Engineer & CNC Programmer in Aerospace Manufacturing**  
+🤖 **AI Engineer | Data Scientist | Mechatronics Engineer**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+I build bridges between **industrial engineering and artificial intelligence**.
 
+With 8+ years working in real production environments — aerospace manufacturing, renewable energy, and industrial systems — I understand how complex physical processes actually work.  
+Today, I combine this engineering foundation with Artificial Intelligence to design smarter, data-driven systems.
 
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+**My goal:**  
+➡️ Transform traditional engineering problems into intelligent, automated solutions powered by AI.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbaidiaFiras&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 Currently Working On
+- Applying AI concepts alongside industrial engineering workflows
+- Computer Vision & Multimodal AI projects (PyTorch & Transformers)
+- Production-ready Machine Learning pipelines
+- Building an industry-focused AI portfolio
+
+---
+
+### 👯 Looking to Collaborate On
+- Industrial AI applications
+- Computer Vision for real-world environments
+- AI agents & autonomous decision systems
+- Robotics + AI integration
+- Open-source AI engineering projects
+
+---
+
+### 🤝 Looking for Help With
+- Scaling AI systems to production
+- MLOps & deployment architectures
+- Designing robust industrial AI systems
+- Meaningful open-source collaboration
+
+---
+
+### 🌱 Currently Learning
+- Multi-Agent AI Systems
+- LLMs & Retrieval-Augmented Generation (RAG)
+- Generative & Multimodal AI
+- AI deployment (Docker, APIs, Cloud)
+- Deep learning optimization
+
+---
+
+### 💬 Ask Me About
+- Machine Learning & Deep Learning
+- Computer Vision (CNNs, Vision Transformers)
+- Data Science workflows
+- AI for manufacturing & robotics
+- Engineering problem-solving with AI
+
+---
+
+### ⚡ Fun Fact
+I started my career programming CNC machines that shape aircraft parts — now I program models that learn from data.  
+Different tools, same mindset: **precision, optimization, and continuous improvement.**
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas%20Abaidia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firas-abaidia)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:etudiant.abaidia.firas@uvt.tn)
+
+---
+
+# 💻 Tech Stack
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 👁️ Computer Vision & Data
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### ⚙️ Backend, Deployment & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧰 Engineering & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=AbaidiaFiras&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=AbaidiaFiras&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbaidiaFiras&theme=dark&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=AbaidiaFiras&icon=0&color=0)
